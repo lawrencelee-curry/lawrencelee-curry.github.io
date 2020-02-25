@@ -2,8 +2,8 @@ title:              Clean Blog
 email:              sangjoonlee8787@gmail.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "/home"
-url:                "http://localhost:4000/"
+baseurl:            " "
+url:                "https://lawrencelee-curry.github.io"
 
 # Social Profiles
 twitter_username:   
@@ -22,3 +22,5 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+remote_theme : BlackrockDigital/startbootstrap-clean-blog-jekyll
